@@ -164,7 +164,7 @@
 								bind:value={presionInicial}
 								class="w-full rounded border p-2"
 								min="0"
-								step="100"
+								step="0.01"
 							/>
 						</label>
 					</div>
